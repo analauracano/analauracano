@@ -1,76 +1,70 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FFAB&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ana+Laura+%F0%9F%91%8B;Turning+creativity+into+code!+%F0%9F%92%BB" alt="Typing SVG"/>
+</p>
+
 # 👋 Olá! Eu sou a Ana Laura 🇧🇷 / Hello! I'm Ana Laura 🇺🇸
+---
+
+## 🌟 Sobre mim / About me
+💅 **Nail Designer em transição para a área Tech** / **Nail Designer transitioning into Tech**  
+💻 Apaixonada por desenvolvimento web e inovação digital / Passionate about web development and digital innovation  
+🌱 Atualmente estudando / Currently learning: **HTML · CSS · JavaScript · TypeScript · Firebase · Python · PHP · Java**  
+🎯 Em busca da minha primeira oportunidade como desenvolvedora / Looking for my first opportunity as a developer  
 
 ---
 
-## 🇧🇷 Sobre mim
-💅 **Nail Designer em transição para a área Tech**  
-💻 Apaixonada por desenvolvimento web e inovação digital  
-🌱 Atualmente estudando **HTML · CSS · JavaScript · TypeScript · Firebase · Python · PHP · Java**  
-🎯 Em busca da minha primeira oportunidade como desenvolvedora
-
-## 🇺🇸 About me
-💅 **Nail Designer transitioning into Tech**  
-💻 Passionate about web development and digital innovation  
-🌱 Currently learning **HTML · CSS · JavaScript · TypeScript · Firebase · Python · PHP · Java**  
-🎯 Looking for my first opportunity as a developer
-
----
-
-## 🇧🇷 Tecnologias que estou aprendendo
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-## 🇺🇸 Technologies I'm learning
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+## 🚀 Tecnologias / Technologies
+<p align="center">
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+</p>
 
 ---
 
-## 🇧🇷 Projetos em destaque
-- 🛒 [**PillowStore**](https://github.com/analauracano/pillow-ecommerce) — E-commerce moderno com HTML, CSS, JS e Firebase  
-- 💱 [**Conversor de Moedas**](https://github.com/analauracano/CONVERSOR-DE-MOEDAS) — Ferramenta prática para converter valores entre moedas usando JavaScript, HTML e CSS  
-- 💼 [**Interface Financeiro**](https://github.com/analauracano/INTERFACE-FINANCEIRO) — Interface para gerenciamento financeiro com foco em usabilidade e design responsivo  
-- 🔗 [**API Financeiro**](https://github.com/analauracano/API-FINANCEIRO) — API para integração e manipulação de dados financeiros  
+## 📌 Projetos em destaque / Featured Projects
 
-## 🇺🇸 Featured Projects
-- 🛒 [**PillowStore**](https://github.com/analauracano/pillow-ecommerce) — Modern e-commerce built with HTML, CSS, JS and Firebase  
-- 💱 [**Currency Converter**](https://github.com/analauracano/CONVERSOR-DE-MOEDAS) — Practical tool to convert values between currencies using JavaScript, HTML and CSS  
-- 💼 [**Finance Interface**](https://github.com/analauracano/INTERFACE-FINANCEIRO) — Financial management interface focused on usability and responsive design  
-- 🔗 [**Finance API**](https://github.com/analauracano/API-FINANCEIRO) — API for financial data integration and manipulation  
+### 🛒 PillowStore
+[Repositório](https://github.com/analauracano/pillow-ecommerce)  
+**🇧🇷 E-commerce moderno com HTML, CSS, JS e Firebase**  
+**🇺🇸 Modern e-commerce built with HTML, CSS, JS and Firebase**
+
+### 💱 Conversor de Moedas / Currency Converter
+[Repositório](https://github.com/analauracano/CONVERSOR-DE-MOEDAS)  
+**🇧🇷 Ferramenta prática para converter valores entre moedas usando JavaScript, HTML e CSS**  
+**🇺🇸 Practical tool to convert values between currencies using JavaScript, HTML and CSS**
+
+### 💼 Interface Financeiro / Finance Interface
+[Repositório](https://github.com/analauracano/INTERFACE-FINANCEIRO)  
+**🇧🇷 Interface para gerenciamento financeiro com foco em usabilidade e design responsivo**  
+**🇺🇸 Financial management interface focused on usability and responsive design**
+
+### 🔗 API Financeiro / Finance API
+[Repositório](https://github.com/analauracano/API-FINANCEIRO)  
+**🇧🇷 API para integração e manipulação de dados financeiros**  
+**🇺🇸 API for financial data integration and manipulation**
 
 ---
 
-## 🇧🇷 Minhas estatísticas no GitHub
-![Estatísticas da Ana](https://github-readme-stats.vercel.app/api?username=analauracano&show_icons=true&theme=dracula)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=analauracano&layout=compact&theme=dracula)
-
-## 🇺🇸 My GitHub Stats
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=analauracano&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=analauracano&layout=compact&theme=dracula)
+## 📊 Estatísticas / Stats
+<p align="center">
+  ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=analauracano&show_icons=true&theme=radical)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=analauracano&layout=compact&theme=radical)
+</p>
 
 ---
 
-## 🇧🇷 Como me encontrar
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laura.fioratti@outlook.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analaura-cano/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://analauraportfolio.netlify.app/)
-
-## 🇺🇸 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laura.fioratti@outlook.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analaura-cano/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://analauraportfolio.netlify.app/)
+## 📬 Contato / Contact
+<p align="center">
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laura.fioratti@outlook.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analaura-cano/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://analauraportfolio.netlify.app/)
+</p>
 
 ---
 
