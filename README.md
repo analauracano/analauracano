@@ -35,23 +35,19 @@
 
 ### 📌 Projetos em destaque / Featured Projects
 
-**🛒 PillowStore**  
-[Repositório](https://github.com/analauracano/pillow-ecommerce)  
+#### 🛒 [PillowStore](https://github.com/analauracano/pillow-ecommerce)
 🇧🇷 E-commerce moderno com HTML, CSS, JS e Firebase  
 🇺🇸 Modern e-commerce built with HTML, CSS, JS and Firebase  
 
-**💱 Conversor de Moedas / Currency Converter**  
-[Repositório](https://github.com/analauracano/CONVERSOR-DE-MOEDAS)  
+#### 💱 [Conversor de Moedas / Currency Converter](https://github.com/analauracano/CONVERSOR-DE-MOEDAS)
 🇧🇷 Ferramenta prática para converter valores entre moedas usando JavaScript, HTML e CSS  
 🇺🇸 Practical tool to convert values between currencies using JavaScript, HTML and CSS  
 
-**💼 Interface Financeiro / Finance Interface**  
-[Repositório](https://github.com/analauracano/INTERFACE-FINANCEIRO)  
+#### 💼 [Interface Financeiro / Finance Interface](https://github.com/analauracano/INTERFACE-FINANCEIRO)
 🇧🇷 Interface para gerenciamento financeiro com foco em usabilidade e design responsivo  
 🇺🇸 Financial management interface focused on usability and responsive design  
 
-**🔗 API Financeiro / Finance API**  
-[Repositório](https://github.com/analauracano/API-FINANCEIRO)  
+#### 🔗 [API Financeiro / Finance API](https://github.com/analauracano/API-FINANCEIRO)
 🇧🇷 API para integração e manipulação de dados financeiros  
 🇺🇸 API for financial data integration and manipulation  
 
@@ -82,3 +78,4 @@
 <p align="center">
   🌈 Obrigado por visitar meu perfil! / Thank you for visiting my profile! 🌈
 </p>
+
